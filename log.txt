@@ -1,1 +1,21 @@
+Start: Sun, 03 Apr 2015 15:30:00 -0500
+End: Sun, 03 Apr 2015 23:15:00 -0500
+Tasks: Finished assignments and tested on OSU server
+
+Start: Sun, 03 Apr 2015 8:15:00 -0500
+End: Sun, 03 Apr 2015 13:00:00 -0500
+Tasks: Worked on login, content1 and content2
+
+Start: Sat, 02 Apr 2015 17:00:00 -0500
+End: Sat, 02 Apr 2015 20:00:00 -0500
+Tasks: Worked on multable and loopback
+
+Start: Sat, 02 Apr 2015 9:15:00 -0500
+End: Sat, 02 Apr 2015 14:30:00 -0500
+Tasks: Worked with instructors code and started assignments
+
+Start: Thu, 30 Apr 2015 18:15:00 -0500
+End: Thu, 30 Apr 2015 20:30:00 -0500
+Tasks: Watched videos and reviewed code
+
 
